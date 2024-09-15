@@ -1,4 +1,4 @@
-module eqmlog
+module https://github.com/lacolle87/eqmlog
 
 go 1.23.1
 
